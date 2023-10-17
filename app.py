@@ -66,5 +66,5 @@ for index, row in data.head(25).iterrows():
 # ...
 
 st.markdown('---')  # Toto vytvoří horizontální čáru pro oddělení obsahu
-st.markdown('**Zdroj:** companiesmarketcap.com')
+st.markdown('**Zdroj:** companiesmarketcap.com | **Autor:** lig')
 
