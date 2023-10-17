@@ -62,3 +62,9 @@ for index, row in data.head(25).iterrows():
     # Uzavírací cena akcie za poslední den
     with col4:
         st.markdown(f"<div style='text-align: center; margin-bottom: 20px; line-height: 40px;'>{row['Price']}</div>", unsafe_allow_html=True)
+
+# ...
+
+st.markdown('---')  # Toto vytvoří horizontální čáru pro oddělení obsahu
+st.markdown('**Zdroj:** companiesmarketcap.com')
+
