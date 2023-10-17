@@ -5,14 +5,16 @@ from PIL import Image
 import base64
 import io
 
-# CSS k nastavení maximální šířky kontejneru
 st.markdown("""
-<style>
-    .reportview-container {
-        max-width: 640px;
-        margin: auto;
-    }
-</style>
+    <style>
+        .container {
+            max-width: 640px !important;
+        }
+        .col {
+            flex: 0 0 auto;
+            width: auto !important;
+        }
+    </style>
 """, unsafe_allow_html=True)
 
 
