@@ -16,7 +16,7 @@ data = load_data()
 
 
 # Vykreslení tabulky s logy
-st.markdown("<h1 style='text-align: center;'>Aktuální žebříček největších společností světa</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Žebříček největších společností světa</h1>", unsafe_allow_html=True)
 st.write("")
 
 output_dir = 'downloaded_logos'
