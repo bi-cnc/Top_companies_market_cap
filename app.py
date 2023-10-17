@@ -33,7 +33,7 @@ output_dir = 'downloaded_logos'
 
 # Vytvoření hlavičky tabulky s menšími nadpisy (Odstraněný sloupec 'Cena za 1 akcii (USD)')
 col_headers = ['\u200B', '\u200B', 'Název společnosti', 'Tržní kapitalizace (v mld. USD)']
-col1, col_logo, col2, col3 = st.columns([1, 1, 4, 3])  # Změněna distribuce sloupců
+col1, col_logo, col2, col3 = st.columns([1, 1, 1, 1])  # Změněna distribuce sloupců
 columns = [col1, col_logo, col2, col3]
 for col, header in zip(columns, col_headers):
     col.markdown(f"<h3 style='text-align: center; font-size: 16px;'>{header}</h3>", unsafe_allow_html=True)
