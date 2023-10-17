@@ -6,16 +6,13 @@ import base64
 import io
 
 st.markdown("""
-    <style>
-        .container {
-            max-width: 640px !important;
-        }
-        .col {
-            flex: 0 0 auto;
-            width: auto !important;
-        }
-    </style>
+<style>
+    .stFlexContainer > div {
+        flex: 0 0 auto !important;
+    }
+</style>
 """, unsafe_allow_html=True)
+
 
 
 # Nahrání dat
