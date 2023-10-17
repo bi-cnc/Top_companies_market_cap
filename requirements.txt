@@ -1,0 +1,3 @@
+pandas==2.1.1
+streamlit==1.27.2
+Pillow==9.5.0
