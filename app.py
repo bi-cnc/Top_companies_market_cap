@@ -35,7 +35,7 @@ columns = [col1, col_logo, col2, col3]
 for col, header in zip(columns, col_headers):
     col.markdown(f"<h3 style='text-align: center; font-size: 16px;'>{header}</h3>", unsafe_allow_html=True)
 
-def image_to_base64(img_path, output_size=(20, 20)):
+def image_to_base64(img_path, output_size=(64, 64)):
     with Image.open(img_path) as img:
         img = img.resize(output_size)
         buffered = io.BytesIO()
