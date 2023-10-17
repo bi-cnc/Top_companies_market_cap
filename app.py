@@ -1,4 +1,6 @@
 
+
+
 import streamlit as st
 import pandas as pd
 import os
@@ -8,13 +10,14 @@ import io
 
 st.markdown("""
 <style>
-    /* Nastavení maximální šířky aplikace na 2000px a povolení horizontálního scrolování */
-    .stApp {
-        max-width: 640px;
-        overflow-x: auto;
+    /* Nastavení šířky aplikace na 50% a vycentrování */
+    .reportview-container {
+        max-width: 50%;
+        margin: auto;
     }
 </style>
 """, unsafe_allow_html=True)
+
 
 
 # Nahrání dat
@@ -26,15 +29,15 @@ def load_data():
 data = load_data()
 
 # Vykreslení tabulky s logy
-#st.markdown("<h1 style='text-align: center;'>Žebříček největších společností světa</h1>", unsafe_allow_html=True)
-# st.write("")
+st.markdown("<h1 style='text-align: center;'>Žebříček největších společností světa</h1>", unsafe_allow_html=True)
+st.write("")
 
 output_dir = 'downloaded_logos'
 
-# Vytvoření hlavičky tabulky s menšími nadpisy (Odstraněný sloupec 'Cena za 1 akcii (USD)')
-col_headers = ['\u200B', '\u200B', 'Název společnosti', 'Tržní kapitalizace (v mld. USD)']
-col1, col_logo, col2, col3 = st.columns([1, 1, 1, 1])  # Změněna distribuce sloupců
-columns = [col1, col_logo, col2, col3]
+# Vytvoření hlavičky tabulky s menšími nadpisy
+col_headers = ['\u200B', '\u200B', 'Název společnosti', 'Tržní kapitalizace (v mld. USD)', 'Cena za 1 akcii (USD)']
+col1, col_logo, col2, col3, col4 = st.columns([1, 1, 7, 7, 5])
+columns = [col1, col_logo, col2, col3, col4]
 for col, header in zip(columns, col_headers):
     col.markdown(f"<h3 style='text-align: center; font-size: 16px;'>{header}</h3>", unsafe_allow_html=True)
 
@@ -61,16 +64,19 @@ for index, row in data.head(25).iterrows():
     
     # Název společnosti se zvětšeným písmem
     with col2:
-        st.markdown(f"<div style='text-align: center; line-height: 40px; margin-bottom: 20px; font-size: 16px;'>{company_name}</div>", unsafe_allow_html=True)
+        st.markdown(f"<div style='text-align: center; line-height: 40px; margin-bottom: 20px; font-size: 18px;'>{company_name}</div>", unsafe_allow_html=True)
     
     # Tržní kapitalizace
     with col3:
         market_cap_value = str(row['Market Cap'])
         st.markdown(f"<div style='text-align: center; margin-bottom: 20px; line-height: 40px;'>{market_cap_value}</div>", unsafe_allow_html=True)
 
+
+    # Uzavírací cena akcie za poslední den
+    with col4:
+        st.markdown(f"<div style='text-align: center; margin-bottom: 20px; line-height: 40px;'>{row['Price']}</div>", unsafe_allow_html=True)
+
 # ...
 
 st.markdown('---')  # Toto vytvoří horizontální čáru pro oddělení obsahu
 st.markdown('**Zdroj:** companiesmarketcap.com | **Autor:** lig')
-
-
