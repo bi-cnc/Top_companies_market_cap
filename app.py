@@ -5,6 +5,17 @@ from PIL import Image
 import base64
 import io
 
+# CSS k nastavení maximální šířky kontejneru
+st.markdown("""
+<style>
+    .reportview-container {
+        max-width: 640px;
+        margin: auto;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+
 # Nahrání dat
 @st.cache_data
 def load_data():
@@ -12,8 +23,6 @@ def load_data():
     return data
 
 data = load_data()
-
-
 
 # Vykreslení tabulky s logy
 st.markdown("<h1 style='text-align: center;'>Žebříček největších společností světa</h1>", unsafe_allow_html=True)
