@@ -8,11 +8,14 @@ import io
 
 st.markdown("""
 <style>
-    .stFlexContainer > div {
-        flex: 0 0 auto !important;
+    /* Nastavení maximální šířky aplikace na 2000px a povolení horizontálního scrolování */
+    .stApp {
+        max-width: 640px;
+        overflow-x: auto;
     }
 </style>
 """, unsafe_allow_html=True)
+
 
 # Nahrání dat
 @st.cache_data
