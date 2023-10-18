@@ -54,7 +54,5 @@ data = data[['Logo', 'Name', 'Market Cap', 'Price']]
 st.dataframe(data, height=913, column_config={"Logo": image_column,"Name":nazev_column,'Market Cap':market_cap_column,'Price':price_column})
 
 # ...
-
-st.markdown('---')  # Toto vytvoří horizontální čáru pro oddělení obsahu
 st.markdown('**Zdroj:** companiesmarketcap.com | **Autor:** lig')
 
