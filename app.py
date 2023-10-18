@@ -54,5 +54,5 @@ data = data[['Logo', 'Name', 'Market Cap', 'Price']]
 st.dataframe(data, height=913, column_config={"Logo": image_column,"Name":nazev_column,'Market Cap':market_cap_column,'Price':price_column})
 
 # ...
-st.markdown('**Zdroj:** companiesmarketcap.com | **Autor:** lig')
+st.markdown('<span style="font-size: 14px">**Zdroj:** companiesmarketcap.com | **Autor:** lig</span>', unsafe_allow_html=True)
 
