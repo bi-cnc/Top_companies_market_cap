@@ -1,82 +1,46 @@
-
-
-
-import streamlit as st
 import pandas as pd
-import os
+import streamlit as st
 from PIL import Image
 import base64
 import io
+import os
 
-st.markdown("""
-<style>
-    /* Nastavení šířky aplikace na 50% a vycentrování */
-    .reportview-container {
-        max-width: 50%;
-        margin: auto;
-    }
-</style>
-""", unsafe_allow_html=True)
-
-
-
-# Nahrání dat
+# Load the data
 @st.cache_data
 def load_data():
-    data = pd.read_csv('final.csv')
-    return data
+    df = pd.read_csv("final.csv")
+    return df
 
-data = load_data()
+data = load_data().copy()
 
-# Vykreslení tabulky s logy
-st.markdown("<h1 style='text-align: center;'>Žebříček největších společností světa</h1>", unsafe_allow_html=True)
-st.write("")
-
-output_dir = 'downloaded_logos'
-
-# Vytvoření hlavičky tabulky s menšími nadpisy
-col_headers = ['\u200B', '\u200B', 'Název společnosti', 'Tržní kapitalizace (v mld. USD)', 'Cena za 1 akcii (USD)']
-col1, col_logo, col2, col3, col4 = st.columns([1, 1, 7, 7, 5])
-columns = [col1, col_logo, col2, col3, col4]
-for col, header in zip(columns, col_headers):
-    col.markdown(f"<h3 style='text-align: center; font-size: 16px;'>{header}</h3>", unsafe_allow_html=True)
-
+# Convert image to Base64
 def image_to_base64(img_path, output_size=(64, 64)):
-    with Image.open(img_path) as img:
-        img = img.resize(output_size)
-        buffered = io.BytesIO()
-        img.save(buffered, format="PNG")
-        return f"data:image/png;base64,{base64.b64encode(buffered.getvalue()).decode()}"
+    # Check if the image path exists
+    if os.path.exists(img_path):
+        with Image.open(img_path) as img:
+            img = img.resize(output_size)
+            buffered = io.BytesIO()
+            img.save(buffered, format="PNG")
+            return f"data:image/png;base64,{base64.b64encode(buffered.getvalue()).decode()}"
+    return ""
 
-for index, row in data.head(25).iterrows():
-    company_name = row['Name']
-    logo_path = os.path.join(output_dir, f'{company_name}.png')
-    
-    # Pořadí společnosti
-    with col1:
-        st.markdown(f"<div style='text-align: center; margin-bottom: 20px; line-height: 40px;'>{index + 1}</div>", unsafe_allow_html=True)
-    
-    # Logo společnosti
-    with col_logo:
-        if os.path.exists(logo_path):
-            logo_base64 = image_to_base64(logo_path)
-            st.markdown(f"<img src='{logo_base64}' style='width: 40px; height: 40px; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;' />", unsafe_allow_html=True)
-    
-    # Název společnosti se zvětšeným písmem
-    with col2:
-        st.markdown(f"<div style='text-align: center; line-height: 40px; margin-bottom: 20px; font-size: 18px;'>{company_name}</div>", unsafe_allow_html=True)
-    
-    # Tržní kapitalizace
-    with col3:
-        market_cap_value = str(row['Market Cap'])
-        st.markdown(f"<div style='text-align: center; margin-bottom: 20px; line-height: 40px;'>{market_cap_value}</div>", unsafe_allow_html=True)
+# If 'Logo' column doesn't exist, create one with path to the logos
+if 'Logo' not in data.columns:
+    output_dir = 'downloaded_logos'
+    data['Logo'] = data['Name'].apply(lambda name: os.path.join(output_dir, f'{name}.png'))
+
+# Convert image paths to Base64
+data["Logo"] = data["Logo"].apply(image_to_base64)
+
+image_column = st.column_config.ImageColumn(label="Logo", width="medium")
 
 
-    # Uzavírací cena akcie za poslední den
-    with col4:
-        st.markdown(f"<div style='text-align: center; margin-bottom: 20px; line-height: 40px;'>{row['Price']}</div>", unsafe_allow_html=True)
+# Adjust the index to start from 1 and display only the first 25 companies
+data.reset_index(drop=True, inplace=True)
+data = data.head(25)
+data.index = data.index + 1
 
-# ...
 
-st.markdown('---')  # Toto vytvoří horizontální čáru pro oddělení obsahu
-st.markdown('**Zdroj:** companiesmarketcap.com | **Autor:** lig')
+# Display the dataframe
+st.write("# Přehled společností")
+st.dataframe(data, height=1500, column_config={"Logo": image_column})
