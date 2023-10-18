@@ -5,6 +5,10 @@ import base64
 import io
 import os
 
+# Vykreslení tabulky s logy
+st.markdown("<h1 style='text-align: center;'>Žebříček největších společností světa</h1>", unsafe_allow_html=True)
+st.write("")
+
 # Load the data
 @st.cache_data
 def load_data():
@@ -32,15 +36,20 @@ if 'Logo' not in data.columns:
 # Convert image paths to Base64
 data["Logo"] = data["Logo"].apply(image_to_base64)
 
-image_column = st.column_config.ImageColumn(label="Logo", width="medium")
-
+image_column = st.column_config.ImageColumn(label="")
+nazev_column = st.column_config.TextColumn(label="Název společnosti")
+market_cap_column = st.column_config.TextColumn(label="Tržní kapitalizace (v mld. USD)")
+price_column = st.column_config.NumberColumn(label="Cena za 1 akcii (USD) 💬", help="📍**Uzavírací cena za předchozí den**")
 
 # Adjust the index to start from 1 and display only the first 25 companies
 data.reset_index(drop=True, inplace=True)
 data = data.head(25)
 data.index = data.index + 1
 
+data = data[['Logo', 'Name', 'Market Cap', 'Price']]
+
 
 # Display the dataframe
-st.write("# Přehled společností")
-st.dataframe(data, height=1500, column_config={"Logo": image_column})
+st.dataframe(data, height=913, column_config={"Logo": image_column,"Name":nazev_column,'Market Cap':market_cap_column,'Price':price_column})
+
+
