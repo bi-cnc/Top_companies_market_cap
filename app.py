@@ -7,7 +7,7 @@ import os
 
 # Vykreslení tabulky s logy
 st.markdown("<h1 style='text-align: center;'>Žebříček největších společností světa</h1>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center;'>Podle tržní kapitalizace v miliardách dolarů </h4>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Podle tržní kapitalizace v miliardách dolarů </p>", unsafe_allow_html=True)
 st.write("")
 
 # Load the data
