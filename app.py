@@ -53,6 +53,10 @@ data = data[['Logo', 'Name', 'Market Cap', 'Price']]
 # Display the dataframe
 st.dataframe(data, height=913, column_config={"Logo": image_column,"Name":nazev_column,'Market Cap':market_cap_column,'Price':price_column})
 
-# ...
-st.markdown('<span style="font-size: 14px">**Zdroj:** companiesmarketcap.com | **Autor:** lig</span>', unsafe_allow_html=True)
+import datetime
+
+# Získání aktuálního data
+dnesni_datum = datetime.date.today().strftime("%d.%m.%Y")  # Formátování data na formát DD.MM.YYYY
+
+st.markdown(f'<span style="font-size: 14px">**Zdroj:** companiesmarketcap.com | **Autor:** lig | **Data:** k {dnesni_datum}</span>', unsafe_allow_html=True)
 
