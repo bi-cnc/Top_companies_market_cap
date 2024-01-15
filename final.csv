@@ -1,7 +1,7 @@
 Name,Market Cap,Price
 Microsoft,2 887,388.47
 Apple,2 874,185.92
-Saudi Aramco,2 121,8.77
+Saudi Aramco,2 091.00,8.64
 Alphabet (Google),1 794,144.24
 Amazon,1 597,154.62
 NVIDIA,1 354,547.1
@@ -19,38 +19,38 @@ Walmart,434.31,161.32
 Mastercard,402.39,429.1
 Exxon Mobil,399.47,99.95
 Johnson & Johnson,390.91,162.39
-Samsung,370.12,55.72
-LVMH,368.73,735.66
+Samsung,371.96,55.99
+LVMH,367.38,732.97
 Procter & Gamble,354.94,150.6
 Home Depot,354.02,355.71
 Tencent,348.73,36.93
-Nestlé,306.43,114.85
 Costco,303.17,683.24
+Nestlé,303,113.57
 Merck,300.61,118.63
 Oracle,293.03,106.6
-Kweichow Moutai,288.64,229.29
+Kweichow Moutai,287.92,228.71
 AbbVie,286.72,162.4
 ASML,281.42,713.22
 Chevron,278,147.27
 Adobe,272.10,596.54
 Toyota,263.89,195.68
 Salesforce,263.22,271.93
-L'Oréal,261.54,489.12
 Coca-Cola,261.09,60.39
 Bank of America,259.12,32.8
+L'Oréal,248.44,464.62
 International Holding Company,242.23,11043.0
-Roche,239.40,296.71
 AMD,236.76,146.56
+Roche,236.43,293.03
 Pepsico,229.97,167.27
+Reliance Industries,227.89,33.68
+ICBC,223.51,0.47
 Accenture,223.41,356.33
-Reliance Industries,223.27,33.0
-ICBC,222.93,0.47
 Novartis,220.85,107.45
 Netflix,215.40,492.16
 AstraZeneca,215.22,69.42
 McDonald,212.86,293.47
-Hermès,211.25,2017.0
 Thermo Fisher Scientific,210.31,544.32
+Hermès,210.30,2008.0
 Shell,207.55,63.8
 Cisco,204.55,50.34
 Intel,198.65,47.12
@@ -59,14 +59,14 @@ Abbott Laboratories,197.77,113.92
 Pinduoduo,197.46,148.63
 T-Mobile US,187.97,162.54
 SAP,185.44,158.54
-China Mobile,182.58,8.32
+China Mobile,184.38,8.41
 Alibaba,180.48,71.84
-PetroChina,177.55,1.01
-Agricultural Bank of China,176.36,0.52
+PetroChina,179.90,1.02
+Agricultural Bank of China,176.72,0.52
 Comcast,173.03,42.99
 Intuit,171.26,611.8
+Tata,170.61,47.16
 Wells Fargo,170.58,47.4
-Tata,169.10,46.74
 Danaher,166.43,225.24
 HDFC Bank,165.97,65.58
 Walt Disney,165.36,90.35
@@ -79,16 +79,16 @@ QUALCOMM,156.04,140.2
 TotalEnergies,155.88,66.33
 IBM,151.39,165.8
 HSBC,151.19,39.38
+Bank of China,150.32,0.56
 Texas Instruments,149.73,164.87
-Bank of China,149.68,0.56
 ServiceNow,149.52,729.18
 Morgan Stanley,148.55,89.7
+China Construction Bank,148.43,0.92
 Philip Morris,147.89,95.27
-China Construction Bank,147.85,0.91
 Caterpillar,147.84,290.41
 Union Pacific Corporation,144.90,237.71
-Siemens,141.50,179.13
 General Electric,141.30,129.79
+Siemens,140.09,177.35
 Royal Bank Of Canada,138.95,98.56
 S&P Global,138.44,437.0
 United Parcel Service,134.86,158.31
