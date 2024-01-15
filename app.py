@@ -58,4 +58,4 @@ import datetime
 # Získání aktuálního data
 dnesni_datum = datetime.date.today().strftime("%d.%m.%Y")  # Formátování data na formát DD.MM.YYYY
 
-st.markdown(f'<span style="font-size: 14px">**Zdroj:** fivethirtyeight.com | **Data:** k {dnesni_datum} | **Autor:** lig </span>', unsafe_allow_html=True)
+st.markdown(f'<span style="font-size: 14px">**Zdroj:** companiesmarketcap.com | **Data:** k {dnesni_datum} | **Autor:** lig </span>', unsafe_allow_html=True)
