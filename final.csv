@@ -20,7 +20,7 @@ Mastercard,430.33,460.58
 LVMH,421.27,840.1
 Exxon Mobil,407.55,101.97
 Johnson & Johnson,377,156.61
-Samsung,373.30,56.24
+Samsung,373.36,56.24
 Procter & Gamble,371.98,158.09
 Home Depot,355.53,357.23
 ASML,351.44,890.66
@@ -41,8 +41,8 @@ Coca-Cola,261.73,60.54
 L'Oréal,258.44,483.32
 Netflix,244.35,564.64
 International Holding Company,242.23,11043.0
+ICBC,238.13,0.48
 Reliance Industries,237.66,35.13
-ICBC,237.09,0.48
 Pepsico,235.05,170.97
 Accenture,233.83,372.95
 Hermès,228.75,2184.0
@@ -54,12 +54,12 @@ SAP,207.10,177.06
 Shell,205.59,63.3
 Cisco,203.90,50.18
 AstraZeneca,203.50,65.64
+PetroChina,198.39,1.13
 Linde,197.39,407.09
-PetroChina,197.17,1.13
 Abbott Laboratories,194.62,112.11
 T-Mobile US,193.45,161.78
-China Mobile,187.16,8.5
-Agricultural Bank of China,186.73,0.55
+China Mobile,187.12,8.5
+Agricultural Bank of China,186.74,0.55
 Danaher,182.08,246.33
 Alibaba,180.23,71.85
 Intel,180.11,42.6
@@ -75,14 +75,14 @@ Pinduoduo,165.52,124.59
 Caterpillar,160.40,315.09
 ServiceNow,160.16,781.3
 QUALCOMM,158.12,141.69
-Bank of China,157.91,0.6
+Bank of China,157.35,0.6
 BHP Group,154.58,61.09
 Nike,152.58,100.71
 Pfizer,152.05,26.93
 Union Pacific Corporation,151.38,248.33
-China Construction Bank,151.18,0.96
 TotalEnergies,150.77,64.37
 HSBC,150.36,39.35
+China Construction Bank,149.30,0.96
 American Express,149.23,206.41
 General Electric,148.60,136.54
 Dior,145.99,809.22
