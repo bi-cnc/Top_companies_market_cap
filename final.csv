@@ -42,8 +42,8 @@ Hermès,245.61,2345.0
 Netflix,242.91,561.32
 International Holding Company,242.23,11043.0
 L'Oréal,241.52,451.68
+ICBC,238.76,0.49
 Reliance Industries,238.21,35.21
-ICBC,236.83,0.49
 Accenture,233.03,371.67
 Pepsico,230.52,167.67
 Thermo Fisher Scientific,212.79,550.75
@@ -54,13 +54,13 @@ Roche,206.53,256.87
 Novartis,206.50,101.03
 Cisco,203.70,50.13
 Linde,203.37,419.42
-PetroChina,201.44,1.15
+PetroChina,201.45,1.15
 AstraZeneca,200.86,62.26
 Walt Disney,198.81,108.39
 Abbott Laboratories,194.10,111.81
 T-Mobile US,192.49,162.19
 China Mobile,188.47,8.49
-Agricultural Bank of China,187.75,0.55
+Agricultural Bank of China,187.68,0.55
 Intuit,184.24,658.16
 Intel,183.11,43.31
 Alibaba,182.96,72.02
@@ -75,7 +75,7 @@ Verizon,166.98,39.72
 ServiceNow,166.65,812.94
 Caterpillar,161.46,317.16
 Nike,158.33,104.5
-Bank of China,157.53,0.6
+Bank of China,157.34,0.6
 Amgen,155.80,291.12
 Pfizer,155.61,27.56
 Applied Materials,154.63,185.84
@@ -85,8 +85,8 @@ Union Pacific Corporation,152.06,249.45
 General Electric,151.58,139.28
 Dior,151.18,838.01
 TotalEnergies,150.47,64.31
-China Construction Bank,150.32,0.95
 HSBC,150.17,39.03
+China Construction Bank,149.18,0.95
 Texas Instruments,147.66,162.4
 Uber,145.92,70.91
 Morgan Stanley,141.71,85.89
