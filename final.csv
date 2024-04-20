@@ -19,7 +19,7 @@ Tesla,468.32,147.05
 UnitedHealth,462,501.13
 Mastercard,424.82,455.39
 LVMH,424.05,848.89
-Samsung,385.25,56.43
+Samsung,375.91,56.43
 Procter & Gamble,372.10,158.14
 Tencent,367.17,38.98
 Johnson & Johnson,356.43,147.91
@@ -34,12 +34,12 @@ AbbVie,294.65,166.41
 Bank of America,290.83,36.97
 Kweichow Moutai,289.90,227.44
 Nestlé,274.18,104.6
+PetroChina,264.41,1.51
 Salesforce,262.25,270.37
 Coca-Cola,259.40,60.17
 Hermès,258.93,2472.0
-PetroChina,257.24,1.51
 L'Oréal,253.54,474.16
-ICBC,251.04,0.52
+ICBC,252.16,0.52
 International Holding Company,242.23,11043.0
 Netflix,240.19,555.04
 Pepsico,239.34,174.13
@@ -47,8 +47,8 @@ Reliance Industries,238.72,35.28
 AMD,236.99,146.64
 Shell,230.74,72.07
 Linde,214.92,446.3
+Agricultural Bank of China,213.85,0.63
 AstraZeneca,212.53,68.55
-Agricultural Bank of China,211.45,0.63
 Wells Fargo,211.32,60.35
 Adobe,208.32,465.02
 Thermo Fisher Scientific,207.95,544.78
@@ -65,7 +65,7 @@ Abbott Laboratories,186.15,107.28
 Caterpillar,177.10,354.66
 QUALCOMM,175.91,157.63
 Danaher,174.40,235.51
-Bank of China,173.41,0.65
+Bank of China,173.28,0.65
 Verizon,170.46,40.49
 TotalEnergies,169.48,72.05
 Intuit,169.43,605.17
@@ -75,7 +75,7 @@ American Express,166.35,231.04
 Tata,166.11,45.91
 General Electric,161.86,148.06
 Comcast,159.82,40.24
-China Construction Bank,158.88,1.02
+China Construction Bank,159.25,1.02
 Applied Materials,157.67,189.77
 HSBC,153.06,40.52
 ConocoPhillips,151.51,129.38
