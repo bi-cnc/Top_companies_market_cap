@@ -11,7 +11,6 @@ st.markdown("<p style='text-align: center; font-size: 20px;'>Podle tržní kapit
 st.write("")
 
 # Load the data
-@st.cache_data
 def load_data():
     df = pd.read_csv("final.csv")
     return df
