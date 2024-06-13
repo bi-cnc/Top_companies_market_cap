@@ -1,101 +1,101 @@
 Name,Market Cap,Price
-Microsoft,3 278,441.06
-Apple,3 267,213.07
-NVIDIA,3 100,125.2
-Alphabet (Google),2 189,179.56
-Amazon,1 944,186.89
-Saudi Aramco,1 836,7.55
-Meta Platforms (Facebook),1 290,508.84
-TSMC,897.24,172.98
-Berkshire Hathaway,886.79,408.77
-Eli Lilly,824.28,867.3
-Broadcom,693.05,1495.0
-Novo Nordisk,642.67,143.26
-Tesla,575.78,177.29
-JPMorgan Chase,564.86,191.53
-Visa,553.84,270.32
-Walmart,535.20,66.31
-Exxon Mobil,501.66,110.93
-UnitedHealth,453.81,493.07
-Tencent,449.59,47.54
-ASML,422.51,1068.0
-Mastercard,412.01,443.0
-LVMH,402.28,794.86
-Procter & Gamble,389.84,165.18
-Oracle,387.76,140.38
-Costco,375.86,847.81
-Samsung,373.77,55.84
-Johnson & Johnson,350.83,145.41
-Home Depot,341.25,344.14
-Merck,329.77,130.2
-Bank of America,314.62,39.41
-AbbVie,298.11,166.09
-Chevron,284.22,154.22
-Kweichow Moutai,281.51,217.16
-Nestlé,281.05,106.15
-Netflix,280.11,650.06
-Toyota,277.76,205.65
-Coca-Cola,271.05,62.88
-L'Oréal,263.17,492.16
-AMD,261.27,160.24
-ICBC,256.23,0.55
-AstraZeneca,248.55,80.07
-Hermès,245.09,2330.0
-PetroChina,244.30,1.38
+Apple,3 285,214.24
+Microsoft,3 281,441.58
+NVIDIA,3 188,129.61
+Alphabet (Google),2 172.00,176.74
+Amazon,1 913,183.83
+Saudi Aramco,1 788,7.39
+Meta Platforms (Facebook),1 278,504.1
+TSMC,896.88,172.91
+Berkshire Hathaway,876.19,405.92
+Eli Lilly,839.52,883.33
+Broadcom,778.07,1678.0
+Novo Nordisk,634.68,142.49
+Tesla,581.93,182.47
+JPMorgan Chase,556.12,193.66
+Visa,554.88,271.19
+Walmart,536.50,66.7
+Exxon Mobil,493.63,110.04
+UnitedHealth,457.70,497.3
+Tencent,452.91,48.3
+ASML,415.38,1052.0
+Mastercard,413.67,445.0
+Procter & Gamble,392.75,166.41
+LVMH,392.57,785.88
+Oracle,384.37,139.85
+Samsung,378.94,57.13
+Costco,375.04,845.96
+Johnson & Johnson,350.05,145.45
+Home Depot,344.96,347.88
+Merck,327.66,129.37
+Bank of America,307.02,39.26
+AbbVie,294.12,166.56
+Netflix,281.49,653.26
+Chevron,279.51,152.84
+Nestlé,278.79,106.41
+Coca-Cola,271.35,62.99
+Kweichow Moutai,269.37,214.43
+Toyota,268.50,199.35
+L'Oréal,259.69,484.42
+AMD,258.44,159.9
+ICBC,252.89,0.55
+AstraZeneca,246.58,79.53
+Hermès,244.97,2329.0
+QUALCOMM,243.07,217.81
 International Holding Company,242.23,11043.0
-QUALCOMM,241.38,215.39
-Reliance Industries,239.80,35.09
-SAP,230.58,197.2
-Salesforce,229.29,235.8
-Pepsico,226.36,163.83
-Shell,222.06,70.41
-Thermo Fisher Scientific,219.75,575.69
-Roche,218.43,272.25
-Novartis,215.36,105.55
-Pinduoduo,209.70,151.0
-Linde,208.71,434.17
-China Mobile,208.36,9.42
-Adobe,206.02,459.87
-T-Mobile US,203.65,173.79
-Wells Fargo,202.56,57.3
-Agricultural Bank of China,200.21,0.57
-Applied Materials,196.76,237.65
-Danaher,195.99,264.61
-Alibaba,191.27,78.04
-Walt Disney,187.16,100.8
-Abbott Laboratories,184.46,104.38
-Cisco,184.15,45.62
-McDonald,183.39,254.48
-Texas Instruments,181.16,198.98
-Accenture,179.64,285.73
-China Construction Bank,179.10,0.99
-General Electric,179.01,161.05
-Bank of China,169.83,0.61
-HSBC,168.29,43.87
-Verizon,167.40,39.77
-American Express,166.82,224.04
-Tata,166.48,45.94
-Intuit,165.55,592.22
-Amgen,163.67,301.08
-Prosus,163.19,37.35
-Arm Holdings,163.03,155.59
-Caterpillar,161.89,328.73
-TotalEnergies,159.67,69.01
-Philip Morris,159.57,102.65
-Inditex,157.82,25.16
-Pfizer,156.96,27.66
-IBM,156.21,169.0
-Micron Technology,155.86,140.75
-Morgan Stanley,155.44,95.65
-HDFC Bank,152.92,60.32
-Uber,152.84,73.15
-Siemens,152.05,192.5
-Intuitive Surgical,151.84,428.1
-Comcast,150.28,37.83
-Royal Bank Of Canada,149.32,105.5
-Nextera Energy,148.46,72.26
-ServiceNow,148.18,721.5
-Goldman Sachs,147.71,448.7
-BHP Group,145.22,57.39
-Schneider Electric,143.39,255.73
-Raytheon Technologies,142.17,106.77
+PetroChina,241.39,1.37
+Reliance Industries,237.34,35.08
+SAP,224.59,192.42
+Pepsico,224.54,163.33
+Roche,222.29,275.03
+Salesforce,221.93,229.03
+Shell,219.89,69.76
+Thermo Fisher Scientific,218.58,572.63
+Novartis,216.32,106.02
+Pinduoduo,212.04,151.07
+Linde,211.41,439.8
+China Mobile,207.79,9.52
+T-Mobile US,205.77,175.11
+Adobe,205.51,458.74
+Wells Fargo,199.66,57.27
+Agricultural Bank of China,198.29,0.58
+Applied Materials,196.68,237.55
+Danaher,191.35,255.01
+Cisco,183.39,45.52
+Alibaba,183,75.68
+McDonald,182.83,253.7
+Walt Disney,182.46,100.09
+Abbott Laboratories,179.96,103.45
+Texas Instruments,178.70,196.28
+Accenture,177.50,282.32
+China Construction Bank,175.27,0.99
+General Electric,170.41,155.69
+Bank of China,168.50,0.61
+Tata,167.96,46.42
+Verizon,167.44,39.78
+Intuit,166.38,594.62
+Arm Holdings,165.61,158.05
+HSBC,161.51,43.21
+Prosus,160.87,36.82
+Amgen,160.12,298.5
+American Express,159.82,222.19
+Caterpillar,159.60,326.36
+Philip Morris,158.53,101.98
+Micron Technology,158.50,143.14
+Pfizer,156.68,27.65
+TotalEnergies,155.70,67.37
+IBM,155.35,169.12
+Inditex,154.90,24.88
+Morgan Stanley,154.73,95.21
+HDFC Bank,152.74,60.25
+Nextera Energy,150.35,73.18
+Intuitive Surgical,150,422.9
+Royal Bank Of Canada,148.94,104.39
+Uber,148.06,70.86
+Comcast,147.45,37.58
+ServiceNow,145.77,709.76
+BHP Group,145.12,57.35
+Siemens,144.98,183.54
+Goldman Sachs,143.93,446.35
+Nike,142.15,94.18
+Unilever,140.74,56.29
