@@ -36,11 +36,11 @@ Nestlé,274.54,104.79
 Coca-Cola,270.41,62.77
 Toyota,261.63,193.58
 AMD,260.59,161.23
+ICBC,254.84,0.58
 Kweichow Moutai,254.51,202.61
-ICBC,252.64,0.58
 L'Oréal,251.98,471.23
 AstraZeneca,244.56,78.88
-PetroChina,243.23,1.37
+PetroChina,243.11,1.37
 International Holding Company,242.23,11043.0
 Hermès,242.02,2310.0
 Adobe,238.98,533.44
@@ -55,23 +55,23 @@ Novartis,216.53,105.22
 Thermo Fisher Scientific,215.51,564.6
 Linde,212.83,442.75
 T-Mobile US,207.67,176.73
-China Mobile,207.53,9.52
+China Mobile,207.65,9.52
 Wells Fargo,202.55,58.1
 Pinduoduo,199.78,143.86
-Agricultural Bank of China,197.61,0.58
+Agricultural Bank of China,197.47,0.58
 Applied Materials,194.91,235.41
 Accenture,193.54,308.98
 Cisco,190.52,47.29
 Danaher,188.84,254.96
-China Construction Bank,187.55,0.99
 McDonald,186.93,259.39
 Walt Disney,186.44,102.27
+China Construction Bank,185.43,0.99
 Abbott Laboratories,183.91,105.72
 Alibaba,180.22,73.67
 General Electric,179.77,164.24
 Texas Instruments,178.02,195.53
 Intuit,176.88,632.15
-Bank of China,171.23,0.62
+Bank of China,170.47,0.62
 Verizon,169.38,40.24
 Arm Holdings,167.96,160.3
 American Express,165.71,230.38
@@ -97,5 +97,5 @@ Nike,146.67,97.18
 Royal Bank Of Canada,146.64,103.63
 Goldman Sachs,145.16,450.18
 BHP Group,143.17,56.58
-CNOOC,142.70,2.91
+CNOOC,143.10,2.91
 Siemens,142.08,179.87
