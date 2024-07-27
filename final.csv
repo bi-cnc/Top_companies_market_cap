@@ -20,23 +20,23 @@ Visa,504.87,259.46
 Tencent,420.48,45.56
 Mastercard,407.33,438.18
 Procter & Gamble,399.12,169.11
-Samsung,386.89,58.46
+Samsung,386.79,58.47
 Johnson & Johnson,386.60,160.64
 Oracle,383.09,139.01
 ASML,365.31,888.39
 Costco,362.47,817.6
-LVMH,359.85,720.37
+LVMH,359.66,719.98
 Home Depot,356.49,359.51
 AbbVie,326.96,185.16
 Bank of America,323.97,41.67
 Merck,317.25,125.26
 Coca-Cola,288.91,67.05
 Chevron,288.65,157.84
-ICBC,271.36,0.55
 Netflix,270.96,631.37
-Roche,261.55,323.78
+ICBC,268.99,0.55
+Roche,261.61,323.86
 Toyota,260.58,192.52
-Nestlé,255.92,99.53
+Nestlé,255.99,99.56
 Salesforce,254.56,262.71
 SAP,249.92,213.45
 Kweichow Moutai,246.43,196.17
@@ -45,19 +45,19 @@ AstraZeneca,243.05,78.13
 International Holding Company,242.23,11043.0
 Adobe,240.51,542.44
 Pepsico,237.28,172.75
-Hermès,236.08,2254.0
+Hermès,235.95,2252.0
 Thermo Fisher Scientific,231.75,607.14
-L'Oréal,231.66,433.24
+L'Oréal,231.53,433.01
 AMD,226.26,139.99
 Shell,225.35,72.05
 Novartis,223.35,110.32
-PetroChina,221.58,1.26
+PetroChina,221.60,1.26
+Agricultural Bank of China,216.99,0.64
 Linde,216.99,451.39
-Agricultural Bank of China,216.91,0.64
 T-Mobile US,206.26,175.53
 Accenture,205.74,328.46
 Wells Fargo,205.48,60.39
-China Mobile,204.22,9.32
+China Mobile,204.24,9.32
 QUALCOMM,200.93,180.05
 Danaher,197.82,273.91
 Fomento Económico Mexicano,196.03,109.57
@@ -73,12 +73,12 @@ Amgen,179.62,334.85
 Intuit,177.05,633.36
 Philip Morris,176.25,113.36
 IBM,176.14,191.75
+China Construction Bank,175.40,1.02
 American Express,174.80,245.89
 Pfizer,174.36,30.77
-China Construction Bank,173.03,1.02
 Caterpillar,171.40,350.48
 Applied Materials,170.95,206.47
-Bank of China,170.41,0.64
+Bank of China,170.72,0.64
 ServiceNow,170.36,827.61
 Verizon,168.75,40.09
 Morgan Stanley,168.68,104.19
@@ -96,6 +96,6 @@ Nextera Energy,152.63,74.26
 Inditex,152.04,24.34
 Raytheon Technologies,151.49,113.95
 Unilever,151.31,60.73
-Prosus,150.68,34.49
+Prosus,150.60,34.47
 Union Pacific Corporation,146.64,240.36
-Commonwealth Bank,146.10,87.32
+Commonwealth Bank,145.93,87.22
