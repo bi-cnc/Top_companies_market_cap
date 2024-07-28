@@ -2,17 +2,17 @@ Name,Market Cap,Price
 Apple,3 342,217.96
 Microsoft,3 160,425.27
 NVIDIA,2 781,113.06
-Alphabet (Google),2 064,168.68
+Alphabet (Google),2 065,168.68
 Amazon,1 899,182.5
-Saudi Aramco,1 807,7.47
+Saudi Aramco,1 820,7.52
 Meta Platforms (Facebook),1 181,465.7
-Berkshire Hathaway,943.24,437.66
+Berkshire Hathaway,943.63,437.66
 TSMC,839.83,161.94
 Eli Lilly,724.48,804.62
 Broadcom,705.81,151.63
 Tesla,702.18,219.8
 JPMorgan Chase,603.84,212.24
-Novo Nordisk,565.11,126.73
+Novo Nordisk,565.63,126.73
 Walmart,561.27,69.78
 Exxon Mobil,526.33,117.33
 UnitedHealth,524.36,569.72
@@ -21,12 +21,12 @@ Tencent,420.48,45.56
 Mastercard,407.33,438.18
 Procter & Gamble,399.12,169.11
 Samsung,386.79,58.47
-Johnson & Johnson,386.60,160.64
+Johnson & Johnson,386.69,160.64
 Oracle,383.09,139.01
-ASML,365.31,888.39
 Costco,362.47,817.6
 LVMH,359.66,719.98
 Home Depot,356.49,359.51
+ASML,349.85,888.39
 AbbVie,326.96,185.16
 Bank of America,323.97,41.67
 Merck,317.25,125.26
@@ -34,14 +34,14 @@ Coca-Cola,288.91,67.05
 Chevron,288.65,157.84
 Netflix,270.96,631.37
 ICBC,268.99,0.55
-Roche,261.61,323.86
-Toyota,260.58,192.52
+Roche,261.18,323.86
+Toyota,259.31,192.52
 Nestlé,255.99,99.56
 Salesforce,254.56,262.71
-SAP,249.92,213.45
+SAP,248.98,213.45
 Kweichow Moutai,246.43,196.17
 Reliance Industries,244.02,36.06
-AstraZeneca,243.05,78.13
+AstraZeneca,242.24,78.13
 International Holding Company,242.23,11043.0
 Adobe,240.51,542.44
 Pepsico,237.28,172.75
@@ -49,15 +49,15 @@ Hermès,235.95,2252.0
 Thermo Fisher Scientific,231.75,607.14
 L'Oréal,231.53,433.01
 AMD,226.26,139.99
-Shell,225.35,72.05
-Novartis,223.35,110.32
+Shell,225.32,72.05
+Novartis,223.99,110.32
 PetroChina,221.60,1.26
 Agricultural Bank of China,216.99,0.64
 Linde,216.99,451.39
 T-Mobile US,206.26,175.53
 Accenture,205.74,328.46
 Wells Fargo,205.48,60.39
-China Mobile,204.24,9.32
+China Mobile,204.04,9.32
 QUALCOMM,200.93,180.05
 Danaher,197.82,273.91
 Fomento Económico Mexicano,196.03,109.57
@@ -84,17 +84,17 @@ Verizon,168.75,40.09
 Morgan Stanley,168.68,104.19
 Walt Disney,163.94,89.93
 Goldman Sachs,160.91,499.03
-HSBC,160.15,43.28
+HSBC,160.13,43.28
 Intuitive Surgical,156.81,441.3
-Royal Bank Of Canada,156.77,110.67
-TotalEnergies,156.64,67.85
+Royal Bank Of Canada,156.78,110.67
+TotalEnergies,156.33,67.85
 Arm Holdings,156.12,149.0
 HDFC Bank,153.90,60.64
 Comcast,153.69,39.69
 S&P Global,153.26,489.82
 Nextera Energy,152.63,74.26
-Inditex,152.04,24.34
-Raytheon Technologies,151.49,113.95
+Inditex,152.29,24.46
+Raytheon Technologies,151.58,113.95
 Unilever,151.31,60.73
 Prosus,150.60,34.47
 Union Pacific Corporation,146.64,240.36
