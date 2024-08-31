@@ -17,14 +17,14 @@ Novo Nordisk,619.58,139.16
 UnitedHealth,545,590.2
 Visa,537.78,276.37
 Exxon Mobil,523.98,117.94
-Tencent,449.43,48.52
+Tencent,447.98,48.52
 Mastercard,446.52,483.34
 Procter & Gamble,403.06,171.54
 Johnson & Johnson,399.26,165.86
 Costco,395.62,892.38
 Oracle,389.37,141.29
-LVMH,372.34,745.5
-Samsung,367.46,55.58
+LVMH,372.26,745.33
+Samsung,367.53,55.59
 Home Depot,366.02,368.5
 ASML,357.71,903.87
 AbbVie,346.75,196.31
@@ -32,25 +32,25 @@ Bank of America,316.20,40.75
 Coca-Cola,312.33,72.47
 Netflix,300.99,701.35
 Merck,300.24,118.45
-ICBC,286.85,0.58
-Nestlé,275.29,107.07
-AstraZeneca,272.25,87.62
-Roche,271.82,337.83
+ICBC,286.84,0.58
+Nestlé,275.42,107.12
+Roche,271.95,337.99
+AstraZeneca,271.66,87.62
 Chevron,268.49,147.95
 SAP,259.35,219.71
-Toyota,256.40,189.8
 Kweichow Moutai,255.72,203.57
+Toyota,255.65,189.8
 Adobe,254.69,574.41
-Hermès,251.44,2398.0
-Novartis,246.05,120.89
-Reliance Industries,243.76,36.03
+Hermès,251.39,2397.0
+Novartis,245.10,120.89
+Reliance Industries,243.64,36.01
 International Holding Company,242.23,11043.0
 Salesforce,241.77,252.9
 AMD,240.44,148.56
 Pepsico,237.46,172.88
 Thermo Fisher Scientific,234.95,615.07
-L'Oréal,234.56,438.47
-T-Mobile US,231.86,198.72
+L'Oréal,234.51,438.38
+T-Mobile US,233.47,198.72
 Linde,228.36,478.25
 Agricultural Bank of China,226.03,0.64
 PetroChina,223.16,1.26
@@ -61,7 +61,7 @@ McDonald,207.06,288.66
 Cisco,203.61,50.54
 Wells Fargo,199.01,58.47
 Abbott Laboratories,197.07,113.27
-Tata,196.59,54.34
+Tata,196.49,54.31
 Texas Instruments,195.70,214.34
 QUALCOMM,195.28,175.3
 Alibaba,195.25,83.34
@@ -69,9 +69,9 @@ Danaher,194.49,269.31
 Philip Morris,191.69,123.29
 General Electric,189.34,174.62
 IBM,186.19,202.13
+Bank of China,184.11,0.68
 Fomento Económico Mexicano,183.88,102.78
 American Express,183.87,258.65
-Bank of China,179.61,0.68
 Amgen,179.37,333.83
 China Construction Bank,176.23,1.06
 Intuit,176.18,630.26
@@ -79,7 +79,7 @@ ServiceNow,176,855.0
 Verizon,175.87,41.78
 Intuitive Surgical,175.05,492.63
 Caterpillar,172.67,356.1
-Royal Bank Of Canada,170.93,120.78
+Royal Bank Of Canada,170.83,120.78
 Inditex,169.47,27.17
 Morgan Stanley,167.62,103.61
 Nextera Energy,165.47,80.51
@@ -88,14 +88,14 @@ Raytheon Technologies,164.07,123.34
 Walt Disney,163.91,90.38
 HSBC,163.53,44.46
 Applied Materials,162.62,197.26
-Prosus,161.97,37.07
+Prosus,161.94,37.06
 Unilever,161.30,64.79
 Goldman Sachs,161.13,510.25
 S&P Global,160.64,513.24
 TotalEnergies,158.49,69.0
-Commonwealth Bank,157.74,94.34
+Commonwealth Bank,157.83,94.4
 Union Pacific Corporation,156,256.09
 HDFC Bank,155.20,61.11
 Uber,153.64,73.13
 Comcast,153.23,39.57
-Siemens,148.39,187.86
+Siemens,148.36,187.82
