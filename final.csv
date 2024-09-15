@@ -6,26 +6,26 @@ Amazon,1 957,186.49
 Alphabet (Google),1 943,158.37
 Saudi Aramco,1 747,7.23
 Meta Platforms (Facebook),1 327,524.62
-Berkshire Hathaway,964.11,447.61
+Berkshire Hathaway,964.80,447.61
 TSMC,894.59,172.5
 Eli Lilly,831.73,923.71
 Broadcom,783.20,167.69
 Tesla,735.69,230.29
 Walmart,647.88,80.6
-Novo Nordisk,601.92,137.0
+Novo Nordisk,606.91,137.0
 JPMorgan Chase,581.32,204.32
 Visa,559.14,287.35
 UnitedHealth,548.80,594.32
 Exxon Mobil,493.82,111.15
 Mastercard,455.78,493.36
 Oracle,448.98,162.03
-Tencent,442.80,47.85
+Tencent,442.33,47.82
 Procter & Gamble,409.03,174.08
 Costco,406.09,916.0
 Johnson & Johnson,398.44,165.52
 Home Depot,377.44,379.99
 AbbVie,343.04,194.21
-LVMH,336.65,673.87
+LVMH,336.54,673.87
 ASML,320.99,816.36
 Samsung,319.55,48.12
 Coca-Cola,307.76,71.41
@@ -33,13 +33,13 @@ Bank of America,299.90,38.65
 Netflix,299.15,697.06
 Merck,293.68,115.86
 Nestlé,266.99,103.84
-SAP,258.12,221.28
+SAP,259.28,221.28
 ICBC,257.77,0.54
 Chevron,255.17,140.61
-Roche,253.48,314.83
-AstraZeneca,247.32,78.27
+Roche,253.32,314.83
 AMD,246.51,152.31
 Pepsico,243.61,177.36
+AstraZeneca,243.56,78.27
 Salesforce,243.36,254.57
 International Holding Company,242.23,11043.0
 Adobe,238.04,536.87
@@ -52,13 +52,13 @@ Kweichow Moutai,231.15,184.02
 Linde,223.85,468.81
 Hermès,222.63,2123.0
 Accenture,218.97,349.58
-L'Oréal,218.84,406.31
+L'Oréal,217.35,406.31
 Agricultural Bank of China,213.85,0.63
 McDonald,212.71,296.53
 Shell,209.32,67.45
-Alibaba,203.03,84.69
+Alibaba,203.35,84.69
 Abbott Laboratories,202.52,116.4
-China Mobile,200.03,9.12
+China Mobile,200.07,9.12
 Cisco,198.73,49.8
 Danaher,198.06,274.25
 IBM,197.85,214.79
@@ -71,12 +71,12 @@ QUALCOMM,186.85,167.73
 American Express,184.12,259.0
 Intuit,183.67,655.31
 Texas Instruments,182.54,199.93
+Fomento Económico Mexicano,181.16,104.57
 ServiceNow,180.93,878.95
-Fomento Económico Mexicano,180.88,104.57
 Wells Fargo,179.65,52.78
 Amgen,178.63,332.45
 China Construction Bank,178.30,1.0
-Royal Bank Of Canada,174.86,123.59
+Royal Bank Of Canada,175.03,123.59
 Inditex,174.39,28.01
 Intuitive Surgical,174.07,489.86
 Nextera Energy,173.98,84.65
@@ -85,8 +85,8 @@ Caterpillar,167.44,345.31
 Pfizer,165.86,29.27
 Walt Disney,164.22,90.55
 S&P Global,162.58,519.45
-Unilever,162.23,65.06
-HSBC,159.97,43.64
+Unilever,161.99,65.06
+HSBC,159.95,43.64
 HDFC Bank,159.13,62.6
 Morgan Stanley,158.95,98.25
 Raytheon Technologies,158.45,119.12
