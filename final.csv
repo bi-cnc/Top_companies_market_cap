@@ -11,7 +11,7 @@ Broadcom,1 112,237.44
 TSMC,1 096.00,211.5
 Berkshire Hathaway,1 008,467.95
 Walmart,738.58,91.94
-JPMorgan Chase,725.72,259.41
+JPMorgan Chase,725.02,259.16
 Eli Lilly,652.65,725.72
 Visa,618.93,319.62
 Exxon Mobil,493.65,112.32
@@ -29,7 +29,7 @@ Johnson & Johnson,353.99,147.03
 Novo Nordisk,351.55,78.69
 Salesforce,310.60,324.56
 SAP,306.59,262.83
-AbbVie,303.12,171.54
+AbbVie,303.17,171.56
 ICBC,297.98,0.63
 ASML,297.38,756.33
 Chevron,287.88,161.47
@@ -50,7 +50,7 @@ ServiceNow,221.06,1071.0
 Accenture,220.53,352.59
 American Express,220.18,312.56
 Thermo Fisher Scientific,214.06,559.65
-China Mobile,212.22,9.65
+China Mobile,212.24,9.65
 PetroChina,211.94,0.8
 Intuitive Surgical,211.08,592.64
 Nestlé,208.60,81.13
