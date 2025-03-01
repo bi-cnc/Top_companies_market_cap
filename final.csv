@@ -30,7 +30,7 @@ LVMH,363.46,720.33
 Bank of America,350.57,46.1
 SAP,338.21,275.0
 Alibaba,321.98,132.51
-ICBC,314.48,0.71
+ICBC,315.59,0.71
 T-Mobile US,307.91,269.69
 Coca-Cola,306.27,71.21
 ASML,300.37,709.08
@@ -42,9 +42,9 @@ Kweichow Moutai,258.88,206.09
 Wells Fargo,257.53,78.32
 Cisco,255.04,64.11
 Nestlé,248.13,96.45
-Samsung,246.48,37.36
-Agricultural Bank of China,243.62,0.7
+Samsung,246.15,37.36
 Toyota,243.56,181.48
+Agricultural Bank of China,243.20,0.7
 International Holding Company,242.23,11043.0
 Philip Morris,241.43,155.28
 Abbott Laboratories,239.35,138.01
@@ -56,15 +56,15 @@ General Electric,222.14,206.98
 Linde,220.87,467.05
 McDonald,220.28,308.33
 Accenture,217.97,348.5
-China Construction Bank,216.12,1.17
 Novartis,215.78,109.05
+China Construction Bank,215.05,1.17
 Morgan Stanley,214.68,133.11
 HSBC,213.32,59.91
 American Express,211.43,300.96
 Pepsico,210.48,153.47
 Walt Disney,205.72,113.8
 Intuitive Surgical,204.41,573.15
-Bank of China,203.53,0.74
+Bank of China,203.73,0.74
 Shell,202.76,67.46
 Thermo Fisher Scientific,199.55,528.96
 Palantir,199.16,84.92
@@ -74,8 +74,8 @@ PetroChina,194.74,1.11
 Goldman Sachs,194.17,622.29
 ServiceNow,191.98,929.76
 Adobe,190.90,438.56
+PetroChina,190.37,0.74
 Prosus,190.18,43.53
-PetroChina,189.87,0.74
 Reliance Industries,185.79,13.73
 Verizon,181.43,43.1
 Siemens,179.58,229.29
