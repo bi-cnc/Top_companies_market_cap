@@ -24,8 +24,8 @@ UnitedHealth,381.05,418.64
 Procter & Gamble,377.51,161.02
 Johnson & Johnson,371.93,154.58
 Home Depot,355.40,357.58
-ICBC,330.61,0.71
 AbbVie,329.13,186.06
+ICBC,328.80,0.71
 SAP,325.19,277.95
 Coca-Cola,309.46,71.91
 Bank of America,300.05,39.69
@@ -39,7 +39,7 @@ ASML,266.30,677.27
 Philip Morris,264.98,170.24
 T-Mobile US,264.58,232.77
 Palantir,264.50,112.78
-Agricultural Bank of China,261.85,0.76
+Agricultural Bank of China,263.73,0.76
 Salesforce,257.40,267.85
 Samsung,255.07,38.67
 Roche,254.07,316.6
@@ -51,14 +51,14 @@ L'Oréal,227.54,425.86
 Wells Fargo,227.43,69.73
 McDonald,226.49,316.74
 Cisco,225.60,56.71
+China Construction Bank,224.18,1.26
 Abbott Laboratories,223.46,128.85
-China Construction Bank,222.72,1.26
 Novartis,221.48,112.14
 AstraZeneca,215.69,69.57
 IBM,215.50,232.41
+Bank of China,215.31,0.78
 Linde,212.05,448.4
 General Electric,211.60,198.43
-Bank of China,209.03,0.78
 Merck,208.20,82.74
 Reliance Industries,206.25,15.24
 Prosus,202.80,46.42
@@ -66,7 +66,7 @@ HSBC,199.17,55.99
 Shell,196,65.86
 ServiceNow,195.64,945.26
 PetroChina,194.74,1.11
-PetroChina,193.83,0.75
+PetroChina,193.49,0.75
 AT&T,192.92,26.81
 Morgan Stanley,186.42,116.01
 American Express,185.52,264.81
