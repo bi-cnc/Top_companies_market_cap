@@ -3,7 +3,7 @@ Microsoft,3 496,470.38
 NVIDIA,3 456,141.72
 Apple,3 045,203.92
 Amazon,2 267,213.57
-Alphabet (Google),2 111.00,174.92
+Alphabet (Google),2 114,174.92
 Meta Platforms (Facebook),1 754,697.71
 Saudi Aramco,1 599,6.61
 Broadcom,1 161,246.93
@@ -23,53 +23,53 @@ Exxon Mobil,449.36,104.27
 Procter & Gamble,384.55,164.02
 Johnson & Johnson,373.01,155.03
 Home Depot,365.46,367.33
-SAP,361.82,309.8
+SAP,363.87,309.8
 Bank of America,338.70,44.97
 AbbVie,335.31,189.83
-Novo Nordisk,333.13,74.63
-ICBC,329.46,0.75
+Novo Nordisk,334.49,74.63
+ICBC,331.83,0.75
 Coca-Cola,307.10,71.35
 Palantir,301.40,127.72
 ASML,296.08,753.02
-Alibaba,286.35,119.38
+Alibaba,284.72,119.38
 Samsung,282.86,42.93
 Philip Morris,282.86,181.73
-Hermès,281.66,2639.0
 T-Mobile US,279.16,245.86
+Hermès,276.70,2639.0
 UnitedHealth,275.06,303.22
 General Electric,272.60,255.63
 Nestlé,270.83,105.27
-Agricultural Bank of China,270.13,0.78
-LVMH,268.79,536.12
-Kweichow Moutai,264.63,209.61
+Agricultural Bank of China,270.01,0.78
+LVMH,266.80,536.12
+Kweichow Moutai,263.30,209.61
 Salesforce,262.43,274.51
 Cisco,261.59,66.06
-Roche,261.50,325.65
+Roche,261.40,325.65
 IBM,249.88,268.87
-China Mobile,249.22,11.21
 Wells Fargo,248.39,76.33
-Toyota,242.97,185.14
+China Mobile,245.65,11.21
 Chevron,242.87,140.21
 International Holding Company,242.23,11043.0
-China Construction Bank,236.30,1.25
+Toyota,241.28,185.14
+China Construction Bank,234.77,1.25
 Prosus,234.70,53.71
-Novartis,233.81,118.02
+Novartis,233.99,118.02
 Abbott Laboratories,232.40,133.58
 L'Oréal,231.61,433.85
 Reliance Industries,228.04,16.85
-AstraZeneca,227.46,72.88
+AstraZeneca,225.95,72.88
 Linde,222.51,472.71
 McDonald,219.77,307.36
 Intuit,215.22,771.58
 ServiceNow,213.41,1030.0
 American Express,211.90,302.47
 Morgan Stanley,211.48,131.82
-HSBC,210.56,59.99
+PetroChina,210.43,0.87
+HSBC,210.23,59.99
 Bank of China,208.91,0.76
-PetroChina,207.50,0.87
 Walt Disney,204.76,113.9
 AT&T,202.19,28.08
-Shell,200.97,68.02
+Shell,200.92,68.02
 Intuitive Surgical,199.66,557.08
 Accenture,198.85,317.65
 Merck,198.29,78.97
@@ -82,7 +82,7 @@ AMD,188.39,116.19
 Raytheon Technologies,185.83,139.1
 Verizon,184.67,43.8
 Booking.com,182.70,5614.0
-Royal Bank Of Canada,179.85,127.53
+Royal Bank Of Canada,180.11,127.53
 Uber,179,85.6
 Pepsico,178.28,130.03
 Adobe,177.69,416.92
@@ -93,9 +93,9 @@ Blackstone Group,170.39,140.45
 Caterpillar,166.18,353.35
 QUALCOMM,163.86,149.24
 Progressive,163.74,279.32
-Sony,161.82,26.66
+Sony,160.69,26.66
 Charles Schwab,160.34,88.25
-CATL,160.25,34.63
 S&P Global,159.27,519.36
 Boeing,158.94,210.8
 Mitsubishi UFJ Financial,158.86,13.84
+CATL,158.54,34.63
