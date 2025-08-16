@@ -25,10 +25,10 @@ Palantir,420.30,177.17
 Home Depot,397.35,399.38
 AbbVie,365.13,206.69
 Procter & Gamble,361.56,154.36
-ICBC,349.93,0.76
+ICBC,349.89,0.76
 Bank of America,347.68,46.94
-Samsung,339.43,51.56
-Agricultural Bank of China,325.72,0.95
+Samsung,339.42,51.56
+Agricultural Bank of China,325.74,0.95
 SAP,323.78,277.85
 Inditex,320.17,25.82
 Chevron,315.42,156.55
@@ -38,37 +38,37 @@ ASML,291.81,742.16
 AMD,288.07,177.51
 T-Mobile US,286.56,254.63
 General Electric,284.03,267.85
-LVMH,276.99,557.3
+LVMH,277.05,557.43
 UnitedHealth,275.33,304.01
-Prosus,271.64,62.17
-China Construction Bank,266.37,1.28
+Prosus,271.70,62.18
+China Construction Bank,266.39,1.28
 Cisco,262.15,66.2
 Philip Morris,258.68,166.19
-Roche,254.49,317.5
-Hermès,253.40,2417.0
+Roche,254.48,317.48
+Hermès,253.46,2417.0
 Toyota,252.40,193.66
-Kweichow Moutai,248.74,198.01
+Kweichow Moutai,248.76,198.03
 Wells Fargo,246.98,77.1
-China Mobile,246.20,11.28
+China Mobile,246.10,11.28
 AstraZeneca,245.46,79.17
-L'Oréal,245.22,459.91
+L'Oréal,245.28,460.02
 International Holding Company,242.23,11043.0
 Novartis,241.19,124.21
 Novo Nordisk,233.06,52.41
 Salesforce,231.77,242.44
 Morgan Stanley,230.87,144.63
-Nestlé,230.82,89.72
+Nestlé,230.80,89.71
 Abbott Laboratories,229.30,131.75
-Bank of China,228.55,0.76
+Bank of China,228.56,0.76
 Linde,225.11,480.08
 IBM,223.30,239.72
 HSBC,221.89,63.87
 Goldman Sachs,221.20,730.72
 McDonald,220.45,308.93
-PetroChina,215.55,0.98
-Siemens,214.75,274.2
+PetroChina,215.52,0.98
+Siemens,214.80,274.27
 American Express,212.57,305.47
-Reliance Industries,212.51,15.7
+Reliance Industries,212.49,15.7
 Blackstone Group,210.78,171.62
 Merck,210.33,84.21
 Shell,209.40,71.85
@@ -84,12 +84,12 @@ Caterpillar,191.04,407.79
 Verizon,186.53,44.24
 Shopify,184.82,141.47
 Thermo Fisher Scientific,184.65,489.01
-Commonwealth Bank,182.97,109.45
+Commonwealth Bank,183,109.46
 Mitsubishi UFJ Financial,180.94,15.9
-CATL,180.36,39.08
+CATL,180.37,39.08
 ServiceNow,179.96,867.24
 Boeing,177.89,235.26
-Deutsche Telekom,176.90,36.1
+Deutsche Telekom,176.94,36.11
 Texas Instruments,176.89,194.57
 Booking.com,176.77,5454.0
 Xiaomi,175.86,6.73
@@ -97,5 +97,5 @@ BlackRock,175.75,1135.0
 Charles Schwab,174.46,96.11
 Arista Networks,172.56,137.3
 Citigroup,172.47,93.69
+Airbus,172.27,218.8
 Sony,172.23,28.74
-Airbus,172.23,218.75
