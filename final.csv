@@ -31,7 +31,7 @@ ASML,395.99,1006.0
 ICBC,384.51,0.85
 Bank of America,384.18,52.61
 Alibaba,382.86,153.8
-LVMH,367.62,740.27
+LVMH,373.62,740.27
 Home Depot,360.68,362.36
 Ørsted,360.68,18.57
 Procter & Gamble,345.06,147.67
@@ -48,9 +48,9 @@ IBM,285.73,305.69
 AstraZeneca,277.13,89.1
 Micron Technology,277.05,246.83
 Toyota,270.46,204.08
+Hermès,267.03,2505.0
 Wells Fargo,266.97,85.05
 SK Hynix,265.90,385.14
-Hermès,262.66,2505.0
 CATL,261.98,56.93
 Morgan Stanley,260.42,163.86
 Nestlé,260.29,101.17
@@ -84,7 +84,7 @@ Pepsico,199.42,145.85
 Linde,197.70,423.39
 SoftBank,195.15,127.99
 Intuitive Surgical,194.79,549.51
-Airbus,191.77,239.98
+Airbus,191,239.98
 Uber,190.37,91.62
 Walt Disney,190.22,105.8
 AppLovin,188.47,557.7
