@@ -12,8 +12,8 @@ Tesla,1 353,360.59
 Berkshire Hathaway,1 029.00,477.35
 Walmart,1 002,125.79
 Eli Lilly,837.36,935.58
+Samsung,824.26,123.28
 JPMorgan Chase,794.54,294.6
-Samsung,790.05,118.16
 Exxon Mobil,669.55,160.69
 Johnson & Johnson,585.70,243.04
 Visa,579.95,300.8
@@ -23,18 +23,18 @@ Costco,450.50,1014.0
 Mastercard,440.36,493.44
 Oracle,420.99,146.38
 Netflix,418.50,98.66
-ICBC,415.46,0.89
+ICBC,415.49,0.89
 Micron Technology,413.02,366.24
+SK Hynix,400.45,579.99
 Chevron,397.81,198.97
-SK Hynix,379.57,549.75
 AbbVie,369.38,208.84
-China Construction Bank,363.99,1.39
 Ørsted,360.68,18.57
+China Construction Bank,357.39,1.37
 Palantir,355.06,148.46
 AMD,354.61,217.5
 Bank of America,354.38,49.38
-Agricultural Bank of China,351.75,1.01
-PetroChina,336.39,1.37
+Agricultural Bank of China,347.92,0.99
+PetroChina,336.42,1.37
 Caterpillar,335.64,717.22
 Procter & Gamble,334.43,143.12
 Coca-Cola,330.21,76.72
@@ -44,23 +44,23 @@ Inditex,320.17,25.82
 AstraZeneca,315.46,203.49
 Cisco,312.21,79.02
 Merck,298.83,120.87
-Novartis,297.75,154.03
+Novartis,297.31,154.03
 General Electric,296.57,281.16
 HSBC,292.46,84.41
 Alibaba,291.38,122.05
-Bank of China,277.98,0.86
 Applied Materials,276.54,348.47
 Lam Research,274.36,218.44
+Bank of China,272.54,0.85
 Toyota,269.80,207.01
-LVMH,269.59,543.69
-CATL,265.92,58.27
-Kweichow Moutai,265.52,212.04
-Shell,264.96,93.1
+LVMH,269.16,542.81
+Kweichow Moutai,265.72,212.19
 Raytheon Technologies,264.09,196.21
 Morgan Stanley,263.28,165.81
+Shell,260.96,93.1
+CATL,256.34,56.17
 Goldman Sachs,256.10,863.04
 Intel,252.95,50.38
-Nestlé,252.33,98.1
+Nestlé,251.75,97.88
 UnitedHealth,251.66,277.26
 Wells Fargo,248.70,80.6
 Philip Morris,246.40,158.1
@@ -70,32 +70,32 @@ Linde,232.90,502.6
 IBM,232.87,248.16
 Royal Bank Of Canada,228.11,163.39
 T-Mobile US,225.26,201.4
-China Mobile,223.58,10.21
-L'Oréal,220.68,413.44
+China Mobile,223.60,10.21
+L'Oréal,220.32,412.77
 McDonald,219.17,307.14
 Pepsico,214.62,157.01
 Verizon,208.35,49.4
 American Express,206.10,300.18
 SAP,201.98,171.77
-Prosus,201.83,46.19
-Hermès,201.76,1924.0
 Citigroup,201.60,115.25
-Commonwealth Bank,199.60,119.37
+Prosus,201.50,46.12
+Hermès,201.44,1921.0
 KLA,199.30,1516.0
+Commonwealth Bank,199.12,119.09
 AT&T,198.32,28.33
 TotalEnergies,198.15,92.39
 Mitsubishi UFJ Financial,197.30,17.48
-Reliance Industries,196.64,14.53
+Reliance Industries,197.23,14.58
 Nextera Energy,194.08,93.15
-Siemens,187.82,246.25
 Amgen,187.56,347.94
+Siemens,187.52,245.85
 BHP Group,186.72,73.24
-Inditex,182.62,58.63
 Thermo Fisher Scientific,182.56,491.46
+Inditex,182.33,58.54
 TJX Companies,179.50,161.29
 Abbott Laboratories,178.75,102.87
 Texas Instruments,177.42,194.87
 Salesforce,175.38,187.18
 Gilead Sciences,173.40,139.71
-Deutsche Telekom,171.82,35.51
+Deutsche Telekom,171.54,35.46
 Walt Disney,171.32,96.61
