@@ -1,101 +1,101 @@
 Name,Market Cap,Price
-NVIDIA,5 565,230.48
-Apple,4 968,340.42
-Alphabet (Google),4 217.00,344.86
-Microsoft,3 880,522.61
-Amazon,2 740,254.06
-TSMC,2 375,457.99
-SpaceX,2 115.00,160.57
-Meta Platforms (Facebook),1 836,720.89
-Broadcom,1 719,360.14
+NVIDIA,5 536,229.28
+Apple,4 912,336.64
+Alphabet (Google),4 254.00,347.86
+Microsoft,3 973,535.07
+Amazon,2 830,262.43
+TSMC,2 351,453.31
+SpaceX,2 141,162.57
+Meta Platforms (Facebook),1 830,718.67
+Broadcom,1 725,361.54
 Saudi Aramco,1 658,6.86
-Tesla,1 481,375.0
-Samsung,1 281,195.22
-Micron Technology,1 169,1035.0
-Berkshire Hathaway,1 094.00,511.05
-Eli Lilly,1 042,1169.0
-AMD,1 013.00,620.68
-SK Hynix,890.63,1252.0
-JPMorgan Chase,880.97,331.42
-Walmart,877.15,110.56
-Visa,704.19,375.1
-Exxon Mobil,692.85,168.5
-ASML,679.77,1769.0
-Johnson & Johnson,618.09,256.48
-Intel,566.03,107.08
-CXMT,534.45,7.55
-Mastercard,503.49,574.76
-AbbVie,481.39,272.42
-Palantir,477.67,198.78
-Tencent,477.21,52.83
-Cisco,452.96,114.89
-China Construction Bank,435.74,1.67
-Costco,420.05,947.92
-Chevron,414.97,211.55
-Oracle,411.34,135.69
-Applied Materials,404.39,509.57
-Lam Research,401.19,320.59
-Coca-Cola,377.63,87.77
-Bank of America,374.88,53.61
-Agricultural Bank of China,367.03,1.05
-Caterpillar,365.98,796.18
-Dell,365.30,574.55
+Tesla,1 511,382.7
+Samsung,1 282,195.28
+Micron Technology,1 162,1029.0
+Berkshire Hathaway,1 103,515.62
+Eli Lilly,1 051.00,1179.0
+AMD,992.70,608.1
+SK Hynix,890.91,1252.0
+JPMorgan Chase,885.14,332.99
+Walmart,883.42,111.35
+Visa,723.62,385.45
+Exxon Mobil,694.66,168.94
+ASML,683.82,1780.0
+Johnson & Johnson,630.04,261.44
+Intel,553.45,104.7
+CXMT,540.49,7.63
+Mastercard,516.09,589.14
+Palantir,502.35,209.05
+Tencent,493.20,54.6
+AbbVie,488.55,276.47
+Cisco,466.76,118.39
+China Construction Bank,429.86,1.64
+Oracle,428.65,141.4
+Costco,419.60,946.92
+Chevron,415.82,211.98
+Applied Materials,402.37,507.03
+Lam Research,399,318.84
+Bank of America,379.84,54.32
+Coca-Cola,378.83,88.05
+Dell,372.62,586.06
+Caterpillar,367.95,800.47
+Agricultural Bank of China,365.59,1.04
 Ørsted,360.68,18.57
-Merck,351.27,142.38
-Procter & Gamble,350.03,150.59
-Roche,345.96,434.21
-ICBC,343.56,0.96
-UnitedHealth,332.96,370.95
-Bank of China,327.80,1.02
-Palo Alto Networks,325.97,398.5
+Merck,359.22,145.6
+Roche,351.91,441.68
+Procter & Gamble,351.52,151.23
+Palo Alto Networks,342.56,418.78
+ICBC,340.61,0.96
+UnitedHealth,340.45,379.3
+Bank of China,326.45,1.01
 Roche,321.87,404.56
 Inditex,320.17,25.82
-General Electric,317.09,305.62
-HSBC,316.72,92.61
-Philip Morris,312.50,200.5
-Netflix,298.01,71.57
-Home Depot,294.78,295.47
-Morgan Stanley,294.38,187.44
-Arm Holdings,294,275.29
-Shell,285.25,100.2
-Novartis,272.01,143.11
-CrowdStrike,269.30,263.01
-GE Vernova,266.16,999.35
-Arista Networks,266.08,210.97
-Royal Bank Of Canada,263.81,190.56
-Texas Instruments,263.19,288.2
-Alibaba,262.95,105.7
-Goldman Sachs,256.98,882.59
-KLA,256.72,196.72
-Mitsubishi UFJ Financial,253.02,22.48
-Raytheon Technologies,248.41,184.32
-Wells Fargo,248.05,82.03
-Marvell Technology Group,246.83,274.66
-AstraZeneca,246.25,158.78
-SAP,245.15,212.4
+General Electric,319.77,308.2
+HSBC,317.98,92.98
+Philip Morris,313.57,201.19
+Morgan Stanley,298.43,190.02
+Netflix,292.72,70.3
+Home Depot,290.06,290.74
+Shell,285.13,100.18
+Arm Holdings,284.38,266.28
+CrowdStrike,281.62,275.04
+Alibaba,277.06,111.37
+Arista Networks,273.35,216.74
+Novartis,273.22,143.75
+GE Vernova,267.59,1004.0
+Royal Bank Of Canada,265.68,191.91
+Goldman Sachs,260.69,895.32
+Texas Instruments,259.12,283.74
+KLA,255.22,195.57
+Wells Fargo,252.65,83.55
+Mitsubishi UFJ Financial,251.90,22.38
+Raytheon Technologies,250.64,185.97
+SAP,247.89,214.78
+Marvell Technology Group,247.39,275.28
+AstraZeneca,246.90,159.2
+Thermo Fisher Scientific,243.30,658.02
 International Holding Company,242.23,11043.0
-Thermo Fisher Scientific,241.06,651.98
-Nestlé,235.13,91.41
-Kweichow Moutai,234.51,187.6
-MediaTek,234.50,146.83
-Sandisk,232.61,1609.0
+Kweichow Moutai,236.28,189.02
+Nestlé,235.64,91.61
+MediaTek,234.58,146.88
+Siemens,233.29,304.77
 PetroChina,229.25,1.25
-Siemens,226.81,296.31
-L'Oréal,223.30,419.43
-Linde,222.05,481.7
-Amgen,220.27,407.44
-Toyota,220.25,186.0
-China Mobile,219.38,10.12
-SoftBank,218.26,38.3
-BHP Group,215.59,84.83
-Citigroup,214.84,128.08
-IBM,213.49,226.61
-Shopify,211.73,164.56
-LVMH,210.55,427.11
-Amphenol,210.39,85.32
-American Express,208.06,308.1
-CATL,198.21,42.84
-Analog Devices,196.69,405.93
-Santander,195.17,13.48
-Verizon,192.57,46.35
-TotalEnergies,189.88,86.02
+Sandisk,228.61,1581.0
+L'Oréal,227.31,426.97
+Amgen,224.29,414.87
+Linde,222.98,483.73
+China Mobile,221.32,10.21
+BHP Group,220.44,86.74
+Shopify,219.82,170.85
+Toyota,219.42,185.3
+Citigroup,217.46,129.64
+Amphenol,215.13,87.24
+IBM,213.98,227.13
+LVMH,209.81,425.63
+SoftBank,208.99,36.67
+American Express,208.11,308.17
+CATL,206.19,44.56
+Analog Devices,196.82,406.19
+Santander,195.02,13.49
+TotalEnergies,190.08,86.11
+Advantest,189.84,262.96
