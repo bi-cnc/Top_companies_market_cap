@@ -6,7 +6,7 @@ NVIDIA,3 031,125.53
 Amazon,2 668,246.82
 SpaceX,1 735,127.79
 Saudi Aramco,1 707,7.06
-TSMC,1 655,319.15
+TSMC,1 652,318.71
 Broadcom,1 453,304.41
 Meta Platforms (Facebook),1 433,560.84
 Tesla,1 366,345.82
@@ -14,14 +14,14 @@ Berkshire Hathaway,1 210,570.0
 Eli Lilly,1 199,1347.0
 Walmart,1 015.00,127.95
 Samsung,887.76,136.33
-JPMorgan Chase,825.04,310.68
-Visa,750.84,402.43
+JPMorgan Chase,824.64,310.53
+Visa,749.80,401.87
 AMD,702.39,424.39
 Micron Technology,672.64,594.51
 Exxon Mobil,652.63,159.99
 Johnson & Johnson,651.10,270.47
 SK Hynix,584.37,828.69
-Mastercard,545.47,626.14
+Mastercard,544.99,625.59
 AbbVie,505.89,286.2
 China Construction Bank,501.03,1.92
 Costco,488.39,1102.0
@@ -38,14 +38,14 @@ Bank of China,365.14,1.13
 ICBC,358.53,1.01
 Cisco,357.34,90.64
 Palantir,345.73,143.49
-Home Depot,338.30,339.09
+Home Depot,338.25,339.04
 Merck,329.65,133.72
-Bank of America,324.86,47.08
+Bank of America,324.58,47.04
 Roche,321.87,404.56
 Inditex,320.17,25.82
-General Electric,320.04,309.72
+General Electric,319.94,309.62
 Oracle,315.48,101.19
-UnitedHealth,304.54,339.89
+UnitedHealth,304.51,339.85
 Philip Morris,286.93,184.09
 Novartis,284.18,150.47
 Palo Alto Networks,281.86,343.32
@@ -56,7 +56,7 @@ AstraZeneca,270.40,174.35
 Shell,264.13,93.58
 Nestlé,261.92,101.83
 Morgan Stanley,258.94,165.67
-Raytheon Technologies,256.91,190.39
+Raytheon Technologies,256.62,190.17
 L'Oréal,254.54,477.29
 Royal Bank Of Canada,253.97,183.45
 Thermo Fisher Scientific,248.07,669.54
@@ -77,7 +77,7 @@ Goldman Sachs,228.06,790.69
 China Mobile,221.45,10.21
 Siemens,213.52,279.41
 IBM,212.12,224.44
-Arista Networks,211.82,167.66
+Arista Networks,211.77,167.62
 Mitsubishi UFJ Financial,210.30,18.68
 Gilead Sciences,206.42,166.43
 LVMH,205.61,419.08
@@ -87,7 +87,7 @@ Walt Disney,201.51,117.98
 Reliance Industries,201.15,14.86
 Inditex,197.48,63.4
 McDonald,192.84,273.24
-Verizon,192.80,46.52
+Verizon,192.64,46.48
 Pepsico,191.51,140.54
 Commonwealth Bank,188.41,112.68
 TotalEnergies,186.63,85.2
